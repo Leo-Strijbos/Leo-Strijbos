@@ -9,9 +9,9 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: Gmail
 - ⚡ Fun fact: I learned ML before I learned HTML
-<br />
+
 ## I code in:
-<br />
+
 <a target="_blank" href="https://www.flutter.dev/">
   <img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 </a>
@@ -21,9 +21,9 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 <a target="_blank" href="https://www.tensorflow.org/">
   <img align="left" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
 </a>
-<br />
+
 ## I am learning:
-<br />
+
 <a target="_blank">
   <img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 </a>
@@ -33,9 +33,10 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 <a target="_blank">
   <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 </a>
-<br />
+
 ## You can contact me at:
-<br />
+
+
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
