@@ -54,7 +54,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
   <a target="_blank" href="mailto:leostersmail@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-  <a target="_blank" href="https://www.discord.com/channels/@me/">
+  <a target="_blank" href="https://www.discord.com/channels/@me/431452148425818122/">
     <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
 </div>
