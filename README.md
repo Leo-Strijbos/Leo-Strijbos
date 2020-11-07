@@ -25,6 +25,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 </div>
 
 <br>
+
 ## I am learning:
 
 <div>
@@ -37,9 +38,11 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
   <a target="_blank">
     <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
   </a>
+  <br>
 </div>
 
 <br>
+
 ## You can contact me at:
 
 <div>
