@@ -17,7 +17,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
     <img align="left" alt="Flutter" width="22px" src="https://roszkowski.dev/images/2020-05-04/logo_flutter_1080px_clr.png" />
   </a>
   <a target="_blank" href="https://www.python.org/">
-    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   </a>
   <a target="_blank" href="https://www.tensorflow.org/">
     <img align="left" alt="Tensorflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
@@ -46,7 +46,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 
 <div>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=41795675301">
-    <img align="left" alt="WhatsApp" width="22px" src="https://logos-world.net/wp-content/uploads/2020/05/Logo-WhatsApp.png" />
+    <img align="left" alt="WhatsApp" width="30px" src="https://logos-world.net/wp-content/uploads/2020/05/Logo-WhatsApp.png" />
   </a>
   <a target="_blank" href="https://www.github.com/Leo-Strijbos/">
     <img align="left" alt="GitHub" width="22px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />
