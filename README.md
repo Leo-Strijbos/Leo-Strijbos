@@ -56,5 +56,5 @@ Contact me on:
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://fb.com/aryxb">
-  <img align="left" alt="Discord" width="22px" src="https://unpkg.com/simple-icons@v3/icons/icons/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
