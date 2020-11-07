@@ -60,6 +60,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
   <br>
 </div>
 
+<br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
