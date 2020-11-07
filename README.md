@@ -30,7 +30,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 
 <div>
   <a target="_blank">
-    <img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+    <img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   </a>
   <a target="_blank">
     <img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
