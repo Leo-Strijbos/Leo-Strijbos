@@ -58,3 +58,10 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
     <img align="left" alt="WhatsApp" width="34px" src="https://logos-world.net/wp-content/uploads/2020/05/Logo-WhatsApp.png" />
   </a>
 </div>
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Leo-Strijbos' GitHub Stats" src='https://github-readme-stats-eta-drab.vercel.app/api?username=Leo-Strijbos&show_icons=true&hide_border=true' />
+'
+</details>
