@@ -45,7 +45,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 ##### You can contact me at:
 
 <div>
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+  <a target="_blank" href="https://api.whatsapp.com/send?phone=41795675301">
     <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   </a>
   <a target="_blank" href="https://www.github.com/Leo-Strijbos/">
