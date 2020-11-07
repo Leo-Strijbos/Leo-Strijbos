@@ -24,6 +24,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
   </a>
 </div>
 
+<br>
 ## I am learning:
 
 <div>
@@ -38,6 +39,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
   </a>
 </div>
 
+<br>
 ## You can contact me at:
 
 <div>
