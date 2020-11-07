@@ -17,7 +17,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
     <img align="left" alt="Flutter" width="22px" src="https://roszkowski.dev/images/2020-05-04/logo_flutter_1080px_clr.png" />
   </a>
   <a target="_blank" href="https://www.python.org/">
-    <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+    <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   </a>
   <a target="_blank" href="https://www.tensorflow.org/">
     <img align="left" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
