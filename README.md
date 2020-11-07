@@ -33,7 +33,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
     <img align="left" alt="HTML" width="22px" src="https://nickmuturi.com/assets/img/html.png" />
   </a>
   <a target="_blank">
-    <img align="left" alt="CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    <img align="left" alt="CSS" width="22px" src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" />
   </a>
   <a target="_blank">
     <img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
