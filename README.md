@@ -37,13 +37,13 @@ Contact me on:
 </a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="HTML" width="22px" src="https://unpkg.com/simple-icons@v3/icons/HTML5.svg" />
+  <img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="CSS" width="22px" src="https://unpkg.com/simple-icons@v3/icons/CSS3.svg" />
+  <img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="JavaScript" width="22px" src="https://unpkg.com/simple-icons@v3/icons/JavaScript.svg" />
+  <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 </a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
