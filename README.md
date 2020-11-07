@@ -27,13 +27,13 @@ Contact me on:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/WhatsApp.svg" />
 
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  <img align="left" alt="Flutter" width="22px" src="https://unpkg.com/simple-icons@v3/icons/Flutter.svg" />
+  <img align="left" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="Python" width="22px" src="https://unpkg.com/simple-icons@v3/icons/Python.svg" />
+  <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 </a>
 <a target="_blank" href="https://dev.to/aryclenio/">
-  <img align="left" alt="Tensorflow" width="22px" src="https://unpkg.com/simple-icons@v3/icons/Tensorflow.svg" />
+  <img align="left" alt="Tensorflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
 </a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
@@ -47,10 +47,10 @@ Contact me on:
 </a>
 
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
-  <img align="left" alt="WhatsApp" width="22px" src="https://unpkg.com/simple-icons@v3/icons/WhatsApp.svg" />
+  <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/ary.clenio/">
-  <img align="left" alt="GitHub" width="22px" src="https://unpkg.com/simple-icons@v3/icons/GitHub.svg" />
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a target="_blank" href="mailto:leostersmail@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
