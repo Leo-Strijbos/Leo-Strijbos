@@ -61,8 +61,8 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 </div>
 
 
-
-##### :zap: GitHub Stats
-<img align="left" alt="Leo-Strijbos' GitHub Stats" src='https://github-readme-stats-eta-drab.vercel.app/api?username=Leo-Strijbos&show_icons=true&hide_border=true' />
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Leo-Strijbos' GitHub Stats" src='https://github-readme-stats-eta-drab.vercel.app/api?username=Leo-Strijbos&show_icons=true&hide_border=true' />
+</details>
 
