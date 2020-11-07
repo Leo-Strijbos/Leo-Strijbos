@@ -17,7 +17,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
     <img align="left" alt="Flutter" width="22px" src="https://roszkowski.dev/images/2020-05-04/logo_flutter_1080px_clr.png" />
   </a>
   <a target="_blank" href="https://www.python.org/">
-    <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+    <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
   </a>
   <a target="_blank" href="https://www.tensorflow.org/">
     <img align="left" alt="Tensorflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
@@ -46,15 +46,15 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 
 <div>
   <a target="_blank" href="https://api.whatsapp.com/send?phone=41795675301">
-    <img align="left" alt="WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+    <img align="left" alt="WhatsApp" width="22px" src="https://logos-world.net/wp-content/uploads/2020/05/Logo-WhatsApp.png" />
   </a>
   <a target="_blank" href="https://www.github.com/Leo-Strijbos/">
-    <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" alt="GitHub" width="22px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />
   </a>
   <a target="_blank" href="mailto:leostersmail@gmail.com">
-    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="Gmail" width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />
   </a>
   <a target="_blank" href="https://www.discord.com/channels/@me/431452148425818122/">
-    <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align="left" alt="Discord" width="22px" src="https://i.pinimg.com/originals/bc/0d/10/bc0d10e7d774a54825432f12d2469c1a.png" />
   </a>
 </div>
