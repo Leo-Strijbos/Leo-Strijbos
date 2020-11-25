@@ -7,7 +7,7 @@ I'm Leo, a 15 year old developer working mainly with python and flutter.
 - 👯 I’m looking to collaborate on Fluently
 - 🤔 I’m looking for help with Chrome Extensions
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: Gmail
+- 📫 How to reach me: Discord
 - ⚡ Fun fact: I learned ML before I learned HTML
 
 ##### I code in:
