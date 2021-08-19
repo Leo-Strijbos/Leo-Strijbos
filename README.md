@@ -9,18 +9,20 @@ I'm Leo, a 16 year old developer working mainly with python and flutter.
 - 💬  Ask me about Machine Learning
 - 📫  How to reach me: Discord
 
+<br>
+
 ##### Proficient in:
-- Python
-- Flutter
-- Tensorflow
-- HTML/CSS
-- Tailwind CSS
+- Python 🐍
+- Flutter 🦋
+- Tensorflow 🔬
+- HTML/CSS 🧱
+- Tailwind CSS 🎨
 
 <br>
 
 ##### I am learning:
-- React JS
-- MongoDB
+- React JS 💎
+- MongoDB 📼
 
 <br>
 
