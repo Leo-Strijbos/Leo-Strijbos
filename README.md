@@ -17,11 +17,11 @@ I'm Leo, a 16 year old developer working mainly with python and flutter.
 - Tensorflow 🔬
 - HTML/CSS 🧱
 - Tailwind CSS 🎨
+- React JS 💎
 
 <br>
 
 ##### I am learning:
-- React JS 💎
 - MongoDB 📼
 
 <br>
