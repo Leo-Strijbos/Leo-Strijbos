@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Leo, a 17 year old developer working mainly with python and flutter.
+I'm Leo, a 19 year old developer working mainly with python and flutter.
 
 - 🔭  I’m currently working on various small web apps
 - 🌱  I’m currently learning Web Development
