@@ -1,28 +1,10 @@
 # Hi there 👋
 
-I'm Leo, a 19 year old developer working mainly with python and flutter.
+I'm Leo, a 20 year old developer at the University of Cambridge.
 
-- 🔭  I’m currently working on various small web apps
-- 🌱  I’m currently learning Web Development
-- 👯  I’m looking to collaborate on {any VR project ideas}
-- 🤔  I’m looking for help with anything webdev-related
-- 💬  Ask me about Machine Learning
-- 📫  How to reach me: Discord
+My interests lie in startups, machine learning, programming and the outdoors.
 
-<br>
-
-##### Proficient in:
-- Python 🐍
-- Flutter 🦋
-- Tensorflow 🔬
-- HTML/CSS 🧱
-- Tailwind CSS 🎨
-- React JS 💎
-
-<br>
-
-##### I am learning:
-- MongoDB 📼
+I'm proficient in languages such as Python, OCaml, Java and frameworks such as React JS, Tailwind CSS, Flutter. I have worked in AI and built full-stack websites and apps.
 
 <br>
 
@@ -44,10 +26,4 @@ I'm Leo, a 19 year old developer working mainly with python and flutter.
   <br>
 </div>
 
-<br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Leo-Strijbos' GitHub Stats" src='https://github-readme-stats-eta-drab.vercel.app/api?username=Leo-Strijbos&show_icons=true&hide_border=true' />
-</details>
 
