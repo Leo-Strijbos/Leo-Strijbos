@@ -4,9 +4,7 @@ I'm Leo, a 20 year old developer at the University of Cambridge.
 
 My interests lie in startups, machine learning, programming and the outdoors.
 
-I'm proficient in languages such as Python, OCaml, Java and frameworks such as React JS, Tailwind CSS, Flutter. I have worked in AI and built full-stack websites and apps.
-
-<br>
+I'm proficient in languages such as Python, OCaml, JS, Java and frameworks such as React JS, Tailwind CSS, Flutter. I have worked in AI and built full-stack websites and apps.
 
 ##### You can contact me at:
 
