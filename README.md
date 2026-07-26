@@ -1,12 +1,14 @@
-# Hi there 👋
+## Hey, thanks for checking out my Github 🤭
 
-I'm Leo, a 20 year old developer at the University of Cambridge.
+I'm Leo, a 21 year old CS student at the University of Cambridge.
 
-My interests lie in startups, machine learning, programming and the outdoors.
+Currently working at Briefcase. 
 
-I'm proficient in languages such as Python, OCaml, JS, Java and frameworks such as React JS, Tailwind CSS, Flutter. I have worked in AI and built full-stack websites and apps.
+I'm interested in startups and AI.
 
-##### You can contact me at:
+I've built a couple of projects. Check them out.
+
+### You can contact me at:
 
 <div>
   <a target="_blank" href="https://www.github.com/Leo-Strijbos/">
