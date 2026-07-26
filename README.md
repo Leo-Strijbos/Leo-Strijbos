@@ -11,9 +11,6 @@ I've built a couple of projects. Check them out.
 ### You can contact me at:
 
 <div>
-  <a target="_blank" href="https://www.github.com/Leo-Strijbos/">
-    <img align="left" alt="GitHub" width="22px" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" />
-  </a>
   <a target="_blank" href="mailto:leostersmail@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />
   </a>
