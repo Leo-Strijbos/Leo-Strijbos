@@ -2,9 +2,7 @@
 
 I'm Leo, a 21 year old CS student at the University of Cambridge.
 
-Currently working at Briefcase. 
-
-I'm interested in startups and AI.
+I'm interested in AI, computational biology and chip verification.
 
 I've built a couple of projects. Check them out.
 
